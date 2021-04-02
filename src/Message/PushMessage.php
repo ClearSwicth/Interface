@@ -4,7 +4,7 @@
  * User: daikai
  * Date: 2021/4/2
  */
-namespace ClearSwitch\Interfaces\message;
+namespace ClearSwitch\Interfaces\Message;
 use ClearSwitch\Interfaces\ServiceVisitor;
 class PushMessage implements Message
 {
